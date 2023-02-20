@@ -5,6 +5,7 @@ v1.py
 遊戲連結: https://www.facebook.com/gaming/play/800772590062226/
 
 使用方法：
+
 Step 01. 登入Facebook並載入此遊戲畫面
 Step 02. 執行此程式並將畫面跳回上步驟所開的畫面
 
